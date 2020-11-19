@@ -1,0 +1,8 @@
+=> Booting Puma
+=> Rails 6.0.3.4 application starting in production 
+=> Run `rails server --help` for more startup options
+Puma starting in single mode...
+* Version 3.12.6 (ruby 2.7.0-p0), codename: Llamas in Pajamas
+* Min threads: 5, max threads: 5
+* Environment: production
+* Daemonizing...
